@@ -22,7 +22,7 @@ latitude = t2['latitude']
 # print('LATITUDE: ',latitude)
 
 Scr = turtle.Screen()
-image = "/Users/deepanshurana/Downloads/wm.gif" # gif file for world map; taken from nasa website
+image = "wm.gif" # gif file for world map; taken from nasa website
 Scr.bgpic(image)
 # screen setup for dimensions. Must be same as of GIF file.
 
