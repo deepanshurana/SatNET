@@ -1,7 +1,6 @@
 import urllib.request
 import json
 import turtle
-
 #json file for people present in the satellite
 url = 'http://api.open-notify.org/astros.json' # url fetching of the data,
 response = urllib.request.urlopen(url)
