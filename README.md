@@ -26,3 +26,5 @@ This python script uses web services, which returns data. This data is live and 
  Deepanshu Rana - [Github](https://github.com/deepanshurana) 
  
  Email - mailme.deepanshu45@gmail.com
+
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
